@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="400" viewBox="0 0 1200 400"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Leon做了个</title>
+  <desc id="desc">一个程序员爸爸从身边的真实需要出发，用 AI 做出可用产品；右侧以需求便签、代码纸和史前动物博物馆展窗组成一张正在工作的桌面。</desc>
+
+  <rect width="1200" height="400" rx="30" fill="#284A3B"/>
+
+  <g id="brand-title"
+     font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Noto Sans CJK SC',sans-serif">
+    <path d="M60 58c10-16 22-17 32-17-1 15-8 27-26 29 5-4 8-8 11-14-7 4-11 9-17 14z"
+          fill="#F0643B"/>
+    <text x="60" y="156" font-size="78" font-weight="800" fill="#F5F0E7">Leon做了个</text>
+    <path d="M490 169c50-8 108-7 165 0" fill="none" stroke="#F0643B"
+          stroke-width="10" stroke-linecap="round"/>
+    <circle cx="655" cy="169" r="6" fill="#F0643B"/>
+
+    <text x="62" y="232" font-size="42" font-weight="600" fill="#F5F0E7" opacity=".84">从身边的需要出发，</text>
+    <text x="62" y="282" font-size="42" font-weight="600" fill="#F5F0E7" opacity=".84">用 AI 做点真的东西。</text>
+  </g>
+
+  <g id="working-desk">
+    <circle cx="950" cy="175" r="154" fill="#F0643B"/>
+    <path d="M712 333c129-18 277-18 438 0" fill="none" stroke="#D8CCBA"
+          stroke-width="10" stroke-linecap="round"/>
+
+    <g id="need-note" transform="rotate(-6 805 230)">
+      <rect x="720" y="154" width="170" height="150" rx="14" fill="#F5F0E7"/>
+      <path d="M750 184h75a14 14 0 0 1 14 14v25a14 14 0 0 1-14 14h-34l-19 17 4-17h-26a14 14 0 0 1-14-14v-25a14 14 0 0 1 14-14z"
+            fill="none" stroke="#20231F" stroke-width="6" stroke-linejoin="round"/>
+      <circle cx="765" cy="211" r="5" fill="#F0643B"/>
+      <path d="M780 211h37M750 274h103" fill="none" stroke="#284A3B"
+            stroke-width="6" stroke-linecap="round" opacity=".68"/>
+    </g>
+
+    <g id="code-note" transform="rotate(-1 929 210)">
+      <rect x="835" y="116" width="188" height="188" rx="14" fill="#20231F"/>
+      <circle cx="860" cy="143" r="5" fill="#F0643B"/>
+      <circle cx="878" cy="143" r="5" fill="#D8CCBA"/>
+      <path d="M860 176h84M860 199h118M860 222h66M860 245h100"
+            fill="none" stroke="#F5F0E7" stroke-width="7" stroke-linecap="round" opacity=".82"/>
+      <path d="M951 260l11 11 25-29" fill="none" stroke="#F0643B"
+            stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <g id="museum-note" transform="rotate(5 1048 202)">
+      <rect x="953" y="92" width="190" height="220" rx="14" fill="#F5F0E7"/>
+      <path d="M975 146a24 24 0 0 1 48 0v84h-48z" fill="#D8CCBA"/>
+      <path d="M1024 140a24 24 0 0 1 48 0v90h-48z" fill="#F0643B" opacity=".76"/>
+      <path d="M1073 146a24 24 0 0 1 48 0v84h-48z" fill="#284A3B"/>
+
+      <path d="M982 187c8-10 20-12 30-6l8 1-6 8c-9 8-24 8-32 2l-5 4 2-7z"
+            fill="#284A3B"/>
+      <circle cx="1012" cy="184" r="2" fill="#F5F0E7"/>
+
+      <path d="M1031 189l-7 5 8 3 5-22 6 17 7-25 7 24 7-17 6 18c-8 10-30 12-39 3z"
+            fill="#20231F"/>
+      <path d="M1080 189c11-14 23-20 36-21-6 8-10 15-13 22 7-4 13-6 19-7-7 9-16 15-27 20l-9-5-8 8 3-12z"
+            fill="#F5F0E7"/>
+
+      <path d="M975 257h122M975 278h88" fill="none" stroke="#20231F"
+            stroke-width="7" stroke-linecap="round" opacity=".7"/>
+      <circle cx="1114" cy="278" r="7" fill="#F0643B"/>
+    </g>
+  </g>
+</svg>
