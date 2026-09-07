@@ -45,6 +45,18 @@ My daughter was uneasy with dinosaur stories built around chases and fights, so 
 
 Built with React, TypeScript, Three.js, Vite, Vitest, and Playwright. The museum is free to visit, open source, responsive across phones and desktops, keyboard accessible, and respectful of reduced-motion preferences.
 
+## 小工具 · Small tools
+
+### [Bob for OpenClip](https://github.com/s010s/openclip-bob)
+
+从 PopClip 转到 OpenClip 后，我想保留一直在用的 Bob 划词翻译流程，于是做了这个小插件。选中文字，点一下按钮，就能在 Bob 中查看翻译，继续使用原有的翻译服务配置。
+
+After moving from PopClip to OpenClip, I built a small extension to keep my familiar Bob translation workflow. Select text, click **Translate with Bob**, and read the result in Bob using your existing translation services.
+
+[下载插件 · Download](https://github.com/s010s/openclip-bob/releases/latest) · [源码与使用说明 · Source & guide](https://github.com/s010s/openclip-bob)
+
+`macOS` · `AppleScript` · `MIT`
+
 ## 我怎样做 · How I build
 
 > **真实需要 → 人的判断 → AI 辅助实现 → 可用作品 → 真实反馈**<br>
