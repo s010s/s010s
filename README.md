@@ -23,7 +23,7 @@
 
 ## 正在做 · Currently building
 
-### [史前动物博物馆 · Prehistoric Animal Museum](https://github.com/s010s/prehistoric-animal-museum) [![Stars](https://img.shields.io/github/stars/s010s/prehistoric-animal-museum?style=flat&label=Stars&logo=github)](https://github.com/s010s/prehistoric-animal-museum/stargazers)
+### [史前动物博物馆 · Prehistoric Animal Museum](https://github.com/s010s/prehistoric-animal-museum) <a href="https://github.com/s010s/prehistoric-animal-museum/stargazers"><img src="https://img.shields.io/github/stars/s010s/prehistoric-animal-museum?style=flat&label=Stars&logo=github" alt="Stars" align="bottom"></a>
 
 女儿不喜欢以追逐和打斗为中心的恐龙内容，所以我做了一个可以安静观察的地方。孩子可以选择动物、转动模型、听一段简短介绍；大人可以坐在旁边，一起看，也可以顺着家长资料继续聊下去。
 
