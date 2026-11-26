@@ -1,5 +1,7 @@
 # README asset sources
 
+## Prehistoric Animal Museum preview
+
 `museum-preview.webp` resizes and combines three reviewed collection thumbnails
 from [`s010s/prehistoric-animal-museum`](https://github.com/s010s/prehistoric-animal-museum)
 into one triptych. The component thumbnails are also preserved beside the
@@ -24,3 +26,26 @@ composite in this directory.
 
 The source repository records the complete provenance and modification notes in
 its `THIRD_PARTY_NOTICES.md`.
+
+## Lowpoly Vault preview
+
+`lowpoly-vault-preview.webp` resizes and combines three original detail renders
+from [`s010s/lowpoly-vault`](https://github.com/s010s/lowpoly-vault) into one
+triptych. The component thumbnails are also preserved beside the composite in
+this directory.
+
+- `lowpoly-vault-geology-natural-arch.webp` is rendered from
+  [`natural-arch`](https://s010s.github.io/lowpoly-vault/models/natural-arch/)
+  by Leon Made This / s010s, licensed under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- `lowpoly-vault-plant-conifer-tree.webp` is rendered from
+  [`conifer-tree`](https://s010s.github.io/lowpoly-vault/models/conifer-tree/)
+  by Leon Made This / s010s, licensed under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- `lowpoly-vault-animal-mammuthus.webp` is rendered from
+  [`mammuthus`](https://s010s.github.io/lowpoly-vault/models/mammuthus/)
+  by Leon Made This / s010s, licensed under
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+The source repository records the complete license scope and attribution notes
+in its `LICENSE`, `ATTRIBUTION.md`, and `THIRD_PARTY_NOTICES.md`.

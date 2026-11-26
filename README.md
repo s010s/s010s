@@ -16,9 +16,7 @@
 <p align="center">
   <strong><a href="https://leon-made-this.work/museum/">打开博物馆 · Open the museum</a></strong>
   ·
-  <a href="https://github.com/s010s/prehistoric-animal-museum">查看源码 · View source</a>
-  ·
-  <a href="https://github.com/s010s/prehistoric-animal-museum/blob/main/README.zh-CN.md">中文介绍</a>
+  <strong><a href="https://s010s.github.io/lowpoly-vault/">浏览 3D 资产库 · Browse Lowpoly Vault</a></strong>
 </p>
 
 ## 正在做 · Currently building
@@ -41,9 +39,35 @@ My daughter was uneasy with dinosaur stories built around chases and fights, so 
 
 <p align="center"><sub><a href="./assets/readme/SOURCES.md">Preview image credits</a></sub></p>
 
+[打开博物馆 · Open the museum](https://leon-made-this.work/museum/) · [查看源码 · View source](https://github.com/s010s/prehistoric-animal-museum) · [中文介绍](https://github.com/s010s/prehistoric-animal-museum/blob/main/README.zh-CN.md)
+
 `18 animals` · `English / 简体中文` · `Mandarin + English narration` · `No account` · `No ads` · `No analytics scripts`
 
 Built with React, TypeScript, Three.js, Vite, Vitest, and Playwright. The museum is free to visit, open source, responsive across phones and desktops, keyboard accessible, and respectful of reduced-motion preferences.
+
+### [Lowpoly Vault](https://github.com/s010s/lowpoly-vault) <sub><a href="https://github.com/s010s/lowpoly-vault/stargazers"><img src="https://img.shields.io/github/stars/s010s/lowpoly-vault?style=flat&label=Stars&logo=github" alt="Stars"></a></sub>
+
+一个持续扩充的开源低多边形 3D 资产库，目前以史前主题的动物、植物、地质与化石标本为主，已收录 1,000 个按米制尺度整理的模型。你可以在线旋转查看、开启线框或尺寸对比，并免费下载通用 GLB 模型和可编辑的 Blender 源文件。
+
+An open, growing library of original stylized low-poly 3D assets, starting with 1,000 metric-scaled prehistoric animals, plants, landforms, and fossil specimens. Inspect models in the interactive web gallery with wireframe and hand-or-human size comparisons, then download both portable GLB files and editable Blender sources.
+
+<p align="center">
+  <a href="https://s010s.github.io/lowpoly-vault/">
+    <img
+      src="./assets/readme/lowpoly-vault-preview.webp"
+      width="100%"
+      alt="Lowpoly Vault 中的天然石拱、针叶树和猛犸象低多边形 3D 模型，分别展示地质、植物和动物资产"
+    >
+  </a>
+</p>
+
+<p align="center"><sub><a href="./assets/readme/SOURCES.md">Preview image credits</a></sub></p>
+
+[在线展厅 · Browse gallery](https://s010s.github.io/lowpoly-vault/) · [中文展厅](https://s010s.github.io/lowpoly-vault/zh-CN/) · [查看源码 · View source](https://github.com/s010s/lowpoly-vault) · [中文介绍](https://github.com/s010s/lowpoly-vault/blob/main/README.zh-CN.md)
+
+`1,000 models` · `GLB + Blender` · `Metric scale` · `English / 简体中文` · `CC BY 4.0 + MIT`
+
+Built with Blender, Three.js, Vite, Playwright, and glTF Validator. Original models and renders are licensed under CC BY 4.0, and the gallery and pipeline code is MIT licensed, with static bilingual model pages and one-click attribution.
 
 ## 小工具 · Small tools
 
