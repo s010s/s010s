@@ -41,7 +41,7 @@ My daughter was uneasy with dinosaur stories built around chases and fights, so 
 
 [打开博物馆 · Open the museum](https://leon-made-this.work/museum/) · [查看源码 · View source](https://github.com/s010s/prehistoric-animal-museum) · [中文介绍](https://github.com/s010s/prehistoric-animal-museum/blob/main/README.zh-CN.md)
 
-`18 animals` · `English / 简体中文` · `Mandarin + English narration` · `No account` · `No ads` · `No analytics scripts`
+`45 animals` · `English / 简体中文` · `Mandarin + English narration` · `No account` · `No ads` · `No analytics scripts`
 
 Built with React, TypeScript, Three.js, Vite, Vitest, and Playwright. The museum is free to visit, open source, responsive across phones and desktops, keyboard accessible, and respectful of reduced-motion preferences.
 
